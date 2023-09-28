@@ -1,5 +1,4 @@
 # Virtual Assistant using Python
-Today the development of artificial intelligence (AI) systems that can organize a natural human-machine interaction are gaining in popularity. One of the most studied and popular was the direction of interaction, based on the understanding of the machine by the machine of the natural human language.
 
 ### **Aim of “Virtual Assistant”:** 
 This Python project named Virtual Assistant is a software program that helps you ease your day-to-day tasks, such as taking a screenshot, performing a google search, opening a specific website, listening to a joke etc. 
